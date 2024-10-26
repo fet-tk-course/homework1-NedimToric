@@ -1,3 +1,3 @@
 interface Instrukcija {
-    abstract fun pomjeri(instrukcija: Char, pozicija: Int) : Int
+    abstract fun pomjeri(pozicija: Int) : Int
 }
